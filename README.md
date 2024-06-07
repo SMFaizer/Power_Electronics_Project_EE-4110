@@ -21,7 +21,7 @@ This project involves creating a prototype of a washing machine using an Arduino
 - Resistors, wires, and breadboard
 
 ## Circuit Diagram
-![Circuit Diagram](/Circuit Diagram.jpg)
+![Circuit Diagram](/CircuitDiagram.jpg)
 
 ## Project Image
 ![Project Image](path/to/your/project_image.png)
@@ -283,10 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from various online resources and tutorials.
 
 ## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
+For any inquiries, please contact [S.M. Faizer] at [smfaizer000@gmail.com].
 ```
 
-### Notes:
-- Replace `path/to/your/circuit_diagram.png` and `path/to/your/project_image.png` with the actual paths to your images in your repository.
-- Adjust `[Your Name]` and `[Your Email]` with your actual name and email address.
-- Ensure the images are uploaded to your repository before referencing them in the `README.md`.
