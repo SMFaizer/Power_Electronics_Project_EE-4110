@@ -24,7 +24,7 @@ This project involves creating a prototype of a washing machine using an Arduino
 ![Circuit Diagram](https://github.com/SMFaizer/Power_Electronics_Project_EE-4110/blob/main/Circuit%20Diagram.jpg)
 
 ## Project Image
-![Project Image](path/to/your/project_image.png)
+![Project Image](https://github.com/SMFaizer/Power_Electronics_Project_EE-4110/blob/main/Images/Project%20Image.jpg)
 
 ## Code Explanation
 The Arduino code controls the washing machine prototype using PWM signals to drive the DC motor. The control system includes several stages like adding clothes, filling detergent, closing the door, filling water, and selecting wash types.
