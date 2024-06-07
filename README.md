@@ -21,7 +21,7 @@ This project involves creating a prototype of a washing machine using an Arduino
 - Resistors, wires, and breadboard
 
 ## Circuit Diagram
-![Circuit Diagram](/CircuitDiagram.jpg)
+![Circuit Diagram](https://github.com/SMFaizer/Power_Electronics_Project_EE-4110/blob/main/Circuit%20Diagram.jpg)
 
 ## Project Image
 ![Project Image](path/to/your/project_image.png)
